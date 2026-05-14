@@ -2,8 +2,102 @@ ElviCore — Safety‑First AI Architecture
 
 This repository contains the initial documentation for the ElviCore project, an experiment in building AI systems where safety is the foundation and intelligence is the last layer.
 
-Main document:
-/docs/AI_Safety_First_Architecture.pdf
+How to Use This Repository
+This repository is intended as a conceptual resource for researchers, engineers, and architects working on AI safety.
+It does not contain implementation details — only theory, design patterns, and high‑level models.
+
+Here’s how to use it effectively:
+
+1. Read the theoretical model
+Start with the PDF “Theory on AI Safety First” in /docs/.
+It outlines the core ideas:
+
+Safety‑first design
+
+Zero‑trust AI
+
+Scenario‑driven safety
+
+Hardware‑rooted trust
+
+This gives you the conceptual foundation.
+
+2. Explore the conceptual diagram
+The text‑based diagram in the README (and the PDF in /docs/) shows how the layers relate:
+
+application
+
+safety architecture
+
+scenario modelling
+
+zero‑trust enforcement
+
+hardware‑rooted trust
+
+AI as a constrained component
+
+It’s a map, not a blueprint.
+
+3. Use the principles as inspiration
+You are encouraged to:
+
+adapt the ideas
+
+extend the concepts
+
+build your own architecture
+
+design your own constraints
+
+define your own rule sets
+
+This repo gives you the why and the what — you must design your own how.
+
+4. Apply the model to your own systems
+The framework can be used to:
+
+evaluate existing AI systems
+
+design new safety‑first architectures
+
+explore non‑agentic AI design
+
+build misuse‑resistant systems
+
+structure threat modelling for AI
+
+It is intentionally implementation‑agnostic.
+
+5. Contribute theory, not code
+If you want to contribute:
+
+propose new principles
+
+add conceptual diagrams
+
+refine theoretical models
+
+discuss safety patterns
+
+share research insights
+
+This repository is for ideas, not implementations.
+
+6. Build your own implementation privately
+If you choose to implement these concepts:
+
+do it in your own architecture
+
+define your own rule engine
+
+design your own hardware integration
+
+create your own manifests
+
+build your own constraints
+
+Nothing in this repo can be used to reconstruct any private system.
 
 ##UPDATE##
 Safety‑First AI Architecture — Theoretical Model
