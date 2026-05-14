@@ -44,3 +44,18 @@
 |  - Bounded by outer architecture                     |
 |  - No direct access to hardware or rules             |
 +------------------------------------------------------+
+
+
+Reading the diagram:
+
+AI sits at the bottom, as a constrained component.
+
+Hardware‑rooted trust + manifest define what is allowed.
+
+Zero‑trust + enforcement ensure rules cannot be changed at runtime.
+
+Scenario & threat modelling shapes the safety architecture.
+
+Safety & ethics form the hard boundary for all behaviour.
+
+Applications interact only through this layered safety stack.
